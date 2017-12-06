@@ -2,7 +2,7 @@
 ## Joc Blocks Breaker
 
 ### Elementele pe care le-am utilizat pentru acest joc
-======
+------
   * matrice LED 8x8 
   * driver MAX7219 
   * joystick 
