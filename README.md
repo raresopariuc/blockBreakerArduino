@@ -2,15 +2,15 @@
 ## Joc Blocks Breaker
 
 ### Elementele pe care le-am utilizat pentru acest joc
-..* matrice LED 8x8 
-..* driver MAX7219 
-..* joystick 
-..* display LCD 
-..* buton 
-..* rezistori de 220 ohm, 10k ohm 
-..* condensator de 10μF și un condensator de tip 104 (portocaliu) 
-..* breadboard 
-..* placă Arduino UNO 
+⋅⋅* matrice LED 8x8 
+⋅⋅* driver MAX7219 
+⋅⋅* joystick 
+⋅⋅* display LCD 
+⋅⋅* buton 
+⋅⋅* rezistori de 220 ohm, 10k ohm 
+⋅⋅* condensator de 10μF și un condensator de tip 104 (portocaliu) 
+⋅⋅* breadboard 
+⋅⋅* placă Arduino UNO 
 
 ### Funcționalitatea jocului
 	Jocul începe cu un ecran de start, în care pe LCD este afișat mesajul de întâmpinare ce conține numele jocului și indicația pentru a începe jocul (apăsarea butonului alb), matricea neavând vreun led aprins, iar în momentul în care utilizatorul apasă butonul alb, LCD-ul se actualizează afișând ce nivel urmează să joace. În continuare, după apăsarea butonului alb încă o dată, începe jocul propriu-zis.
