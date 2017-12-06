@@ -13,6 +13,7 @@
   * placă Arduino UNO 
 
 ### Funcționalitatea jocului
+
 	Jocul începe cu un ecran de start, în care pe LCD este afișat mesajul de întâmpinare ce conține numele jocului și indicația pentru a începe jocul (apăsarea butonului alb), matricea neavând vreun led aprins, iar în momentul în care utilizatorul apasă butonul alb, LCD-ul se actualizează afișând ce nivel urmează să joace. În continuare, după apăsarea butonului alb încă o dată, începe jocul propriu-zis.
 	După începerea jocului, acesta poate fi întrerupt în orice moment prin apăsarea butonului alb, moment în care jocul va intra în pauză. La a doua apăsare a butonului, jocul își continuă mersul din poziția în care a rămas la prima apăsare. În cazul în care jocul nu este întrerupt sau pierdut, acesta se va sfârși când jucătorul va termina cu succes și ultimul nivel.
 	Dacă, la un moment dat, mingea este scăpată de jucător (nu o poate ajunge cu paleta), jucătorul pierde o viață (inițial are 3 vieți), iar jocul continuă cu același scor (adică dacă scăpăm mingea la mijlocul nivelului 2 și mai avem vieți, jocul va începe din nou, cu o viață mai puțin, din același punct în care l-am lăsat, adică tot de la mijlocul nivelului 2).
