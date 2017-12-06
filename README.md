@@ -28,3 +28,5 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vom folosi variabile care memorează scorul, nivelul, numărul de vieți, coordonatele paletei, ale mingii, momentul actual de timp, o matrice care reține ce LED-uri sunt aprinse pentru fiecare nivel și altele care ne vor ajuta la buna desfășurare a jocului.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vom folosi funcții pentru mesajul de întâmpinare, pentru începerea jocului după apăsarea butonului, pentru actualizarea nivelului de joc după câștigarea nivelului anterior, pentru afișarea informațiilor la pierderea/câștigarea jocului.
+
+[Video-ul jocului](https://drive.google.com/open?id=1GnP7vWBsyRwjdJFObYKm7BRZTo1YunFD)
